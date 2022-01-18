@@ -1,8 +1,4 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.16
-
-
-name: Metrics
+name: Metrics embed
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -12,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
