@@ -29,7 +29,6 @@
 
 ### Design Tools
 
-![adobe-xd](https://img.shields.io/badge/abode_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
@@ -37,8 +36,8 @@
 
 <p align="center">
 <a href="https://github.com/AlexiusKovika">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexiusKovika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexiusKovika&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexiusKovika&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexiusKovika&layout=compact&langs_count=8&theme=drakula"/>
 </a>
 </p>
 
