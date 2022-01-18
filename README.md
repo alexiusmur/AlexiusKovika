@@ -1,5 +1,3 @@
-<a href="https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-github-metrics" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="GitHub Metrics - Customize your profile with various plugins and metrics | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 # Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 👨🏻‍💻 About Me
