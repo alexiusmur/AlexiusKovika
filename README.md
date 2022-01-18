@@ -46,6 +46,12 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
+  </a>
+</p> 
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://)
