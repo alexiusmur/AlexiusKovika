@@ -13,8 +13,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Core
-          user: raklaptudirm
-          config_timezone: Asia/Calcutta
+          user: AlexiusKovika
+          config_timezone: Europe/Kyiv
           committer_message: "chore: update metrics"
           
           # Display
