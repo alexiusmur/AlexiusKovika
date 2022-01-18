@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 🚀 About Me
 
@@ -33,14 +33,14 @@
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
-```
+
 <p align="center">
 <a href="https://github.com/AlexiusKovika">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexiusKovika&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexiusKovika&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-```
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://)
