@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 
 🎓 I am Alexius Kovika, a **Front End Web Developer** (future specializing in **React Applications**). I am also have a Magister's degree in **Software Engineering**.
 
