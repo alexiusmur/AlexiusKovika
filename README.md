@@ -33,7 +33,7 @@
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=red)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
