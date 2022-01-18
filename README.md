@@ -3,11 +3,7 @@
 ## 🚀 About Me
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+khbdsugjhdnfj
 ```
 
 🎓 I am Alexius Kovika, a **Front End Web Developer** (future specializing in **React Applications**). I am also have a Magister's degree in **Software Engineering**.
