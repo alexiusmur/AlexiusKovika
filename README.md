@@ -12,6 +12,8 @@
 
 ## 🛠️ Skills
 
+![markdown](https://img.shields.io/badge/markdown-0769AD?style=for-the-badge&logo=markdown&logoColor=white)
+
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -45,12 +47,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexiusKovika&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="./github-metrics.svg">
-  </a>
-</p> 
 
 ## 🔗 Links
 
