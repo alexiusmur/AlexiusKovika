@@ -2,6 +2,12 @@
 
 ## 🚀 About Me
 
+{
+  "firstName": "Alexius",
+  "lastName": "Ko",
+  "age": 25
+}
+
 🎓 I am Alexius Kovika, a **Front End Web Developer** (future specializing in **React Applications**). I am also have a Magister's degree in **Software Engineering**.
 
 🥊 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **gym**, **boxing**, and **touch typing** to some whacky ones like **writing with my left hand**.
