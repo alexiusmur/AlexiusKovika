@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Alexius Kovika, a **Front End Web Developer** (specializing in **React Applications**) and a [**Freelancer**](https://www.upwork.com/freelancers/~011ab66a510025f944) on _Upwork_. I am also Pursuing my Magister degree in **Software Engineering** and will graduate in mid-2022.
+🎓 I am Alexius Kovika, a **Front End Web Developer** (specializing in **React Applications**) and a [**Freelancer**](https://www.upwork.com/freelancers/~011ab66a510025f944) on _Upwork_. I am also have a Magister's degree in **Software Engineering**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~011ab66a510025f944).
 
