@@ -43,8 +43,8 @@
 
 <p align="center">
 <a href="https://github.com/AlexiusKovika">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexiusKovika&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexiusKovika&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexiusKovika&show_icons=true&hide_border=true&bg_color=90,0d1017,161249,441049&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" font-size="4em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexiusKovika&layout=compact&hide_border=true&langs_count=8&bg_color=90,0d1017,161249,441049&theme=dracula"/>
 </a>
 </p>
 
