@@ -14,11 +14,11 @@
 
 ![markdown](https://img.shields.io/badge/markdown-0769AD?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Languages
+### ⚙️ Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Front-End Development
+### 💻 Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -32,14 +32,14 @@
 
 
 
-### Design Tools
+### 🌟 Design Tools
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=red)
 ![Illustrator](https://img.shields.io/badge/Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AlexiusKovika">
