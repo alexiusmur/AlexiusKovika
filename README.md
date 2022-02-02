@@ -8,7 +8,7 @@
 
 📚 I also love reading books on **personal development** & **financial literacy** & **psyhology**. 
 
-✈️ I love **traveling** too. I have been on solo trips to **Egipt** in _2018_ and to **Dubai, OAE** in _2021_.
+✈️ I love **traveling** too. I have been on solo trips to **Egypt** in _2018_ and to **Dubai, OAE** in _2021_.
 
 ## 🛠️ Skills
 
