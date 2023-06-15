@@ -2,13 +2,13 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 I'm Alexius Kovika, a **Front-End React Engineer**. I'm also have a Bachelor's degree in **Cyber Security** and a Magister's degree in **Software Engineering**.
+🎓 I'm Alexius Kovika, a **Front-End React Engineer**. I also have a Bachelor's degree in **Cyber Security** and a Magister's degree in **Software Engineering**.
 
 🥊 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **gym**, **boxing**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
 📚 I also love reading books on **personal development** & **financial literacy** & **psyhology**. 
 
-✈️ I love **traveling** too. I have been on solo trips to **Egypt** in _2018_ and to **Dubai, OAE** in _2021_.
+✈️ I love **traveling** too.
 
 ## 🛠️ Skills
 
