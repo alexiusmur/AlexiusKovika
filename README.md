@@ -1,5 +1,5 @@
 # Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-
+![](https://komarev.com/ghpvc/?username=alexiusmur&label=PROFILE+VIEWS)<br /> 
 ## 👨🏻‍💻 About Me
 
 🎓 I'm Alexius Kovika, a **Front-End React Engineer**. I also have a Bachelor's degree in **Cyber Security** and a Magister's degree in **Software Engineering**.
